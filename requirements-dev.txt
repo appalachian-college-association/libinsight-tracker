@@ -5,4 +5,4 @@
 # machines -- linters change their rules between releases. Bump these
 # deliberately when you're ready to adopt newer checks.
 ruff==0.16.0
-pylint==4.0.5
+pylint==4.0.9
